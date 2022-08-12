@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "ESP32-DEVKITC-32D")(type "Legacy")(uri "${KIPRJMOD}/symbol/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.lib")(options "")(descr ""))
+  (lib (name "IRFZ44NPBF")(type "Legacy")(uri "${KIPRJMOD}/symbol/IRFZ44NPBF/IRFZ44NPBF.lib")(options "")(descr ""))
+  (lib (name "ESP32-DEVKIT-V1")(type "Legacy")(uri "${KIPRJMOD}/symbol/ESP32-DEVKIT-V1/ESP32-DEVKIT-V1.lib")(options "")(descr ""))
+  (lib (name "ESP32-DEVKIT-V1_2")(type "KiCad")(uri "${KIPRJMOD}/symbol/ESP32-DEVKIT-V1_2.kicad_sym")(options "")(descr ""))
+)

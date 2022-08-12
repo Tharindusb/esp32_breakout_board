@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ESP32-DEVKITC-32D_footprint")(type "KiCad")(uri "${KIPRJMOD}/footprints/ESP32-DEVKITC-32D (1)")(options "")(descr ""))
+  (lib (name "IRFZ44NPBF_footprint")(type "KiCad")(uri "${KIPRJMOD}/symbol/IRFZ44NPBF")(options "")(descr ""))
+  (lib (name "ESP32-DEVKIT-V1_footprint")(type "KiCad")(uri "${KIPRJMOD}/footprints/ESP32-DEVKIT-V1")(options "")(descr ""))
+)
